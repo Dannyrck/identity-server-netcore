@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "9xB5vYaDAO+30VPQFLc8B/YS2hZQVnU+2CKTI8TsphyAObhVgvJc+4ebAAcOzcaHFbCKXFsNj96cjToZSXln3A==",
+  "dgSpecHash": "vGLtzVqTXbtMHGdSG92Eh+xAJUNzzNYwS6LbCOA2jp/4U0ZrMzP3hiNTLcM4Ee+fA9CAsnBG+UGiYqCLE+Mo5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\Danny\\source\\otherRepos\\netcoreIdentitySamples\\firstQuick\\src\\IdentityServer\\IdentityServer.csproj",
   "expectedPackageFiles": [
@@ -74,6 +74,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Danny\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.text.encoding.extensions\\4.0.11\\system.text.encoding.extensions.4.0.11.nupkg.sha512",
     "C:\\Users\\Danny\\.nuget\\packages\\system.text.encodings.web\\4.6.0\\system.text.encodings.web.4.6.0.nupkg.sha512",
