@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication", "WebApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScript", "src\JavaScript\JavaScript.csproj", "{E8BB3EBB-BE2D-427A-92A4-EE31A45D15C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerAspNetIdentity", "src\IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{E8BB3EBB-BE2D-427A-92A4-EE31A45D15C6}.Release|x64.Build.0 = Release|Any CPU
 		{E8BB3EBB-BE2D-427A-92A4-EE31A45D15C6}.Release|x86.ActiveCfg = Release|Any CPU
 		{E8BB3EBB-BE2D-427A-92A4-EE31A45D15C6}.Release|x86.Build.0 = Release|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Debug|x64.Build.0 = Debug|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Debug|x86.Build.0 = Debug|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Release|x64.ActiveCfg = Release|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Release|x64.Build.0 = Release|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Release|x86.ActiveCfg = Release|Any CPU
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +109,7 @@ Global
 		{C7251DCB-CBD1-40E3-946E-AEABFC352D6E} = {DBA02152-24DC-441F-90A0-322C92FAF342}
 		{C036343B-2269-46CB-88F8-B6CB617BED05} = {DBA02152-24DC-441F-90A0-322C92FAF342}
 		{E8BB3EBB-BE2D-427A-92A4-EE31A45D15C6} = {DBA02152-24DC-441F-90A0-322C92FAF342}
+		{5E9621EF-7D93-451F-ACA2-99A9F372F0B1} = {DBA02152-24DC-441F-90A0-322C92FAF342}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {235E976F-D02B-43FF-8008-A78BB0437E9D}
